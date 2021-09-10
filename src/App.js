@@ -6,7 +6,7 @@ import './App.css';
 const customers = [{
   'id': 1,
   'image': 'http://placeimg.com/64/64/1',
-  'name': '강민성',
+  'name': '세종대왕',
   'birthday': '961222',
   'gender': '남자',
   'job': '대학생'
